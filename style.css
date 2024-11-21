@@ -1,0 +1,92 @@
+body header div.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    width: 100%;
+}
+body header div.nav img{
+    margin-right: 50px;  
+}
+
+
+li{
+    display: flex;
+    gap: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body header div.nav img {
+height: 25px;
+gap: 54px;
+}
+
+main{
+ display: flex;
+ flex-direction: column;
+align-items: center; 
+}
+
+main h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main div.quality img{
+    height: 125px;
+
+}
+main div.ventela{
+    display: flex; 
+   justify-content: center;
+   flex-direction: column;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+}
+main h5{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main div.ventela div.gambar{
+    display: flex;
+    flex-direction: row;
+}
+
+main div.imgsize img{
+    height: 160px;
+
+}
+
+footer div.footerig{
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgrey;
+}
+
+footer div.footerig h3{
+display: flex;
+justify-content: center;
+}
+
+footer div.footerig div.fotosepatu{
+    display: flex;
+    height:500px;
+    justify-content: center;
+}
+
+footer div.footercontact{
+    display: flex;
+    justify-content: center;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgrey
+}
+
+footer div.alamat h3{
+    display: flex;
+    flex-direction: column;
+    font-size: 20pt;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
